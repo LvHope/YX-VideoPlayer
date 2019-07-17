@@ -1,0 +1,2 @@
+com.netease.neliveplayer.playerkit
+string app_name
